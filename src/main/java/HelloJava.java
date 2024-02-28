@@ -4,6 +4,9 @@
  * @author LC
  */
 class HelloJava {
+	public static void main(String[] argsv){
+		System.out.println("Hello Blagnac !");
+	}
 	public static void afficherCancan(){
 
 	}
